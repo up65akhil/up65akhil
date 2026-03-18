@@ -1,5 +1,5 @@
 🚀 Welcome to My GitHub Profile !
-Hi there! I'm Anuraj, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm Akhil, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 ### 🔹 Programming & Core Concepts  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
